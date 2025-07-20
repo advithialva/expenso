@@ -1,4 +1,4 @@
-# 💰 Expense Tracker
+# 💰 Expenso
 
 A full-stack expense tracking application built with React Native (Expo) for mobile and Node.js for the backend. 
 
