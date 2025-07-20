@@ -10,7 +10,7 @@ const getApiUrl = () => {
   }
   
   // Production URL
-  return "";
+  return "https://expenso-5036.onrender.com";
 };
 
 export const API_URL = getApiUrl();
