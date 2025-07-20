@@ -5,3 +5,6 @@ mobile/.gitignore
 mobile/README.md
 mobile/eslint.config.js
 mobile/tsconfig.json
+
+# Backend folder files to exclude from GitHub
+backend/.gitignore
