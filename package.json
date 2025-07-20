@@ -1,0 +1,17 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "description": "Expense tracker with mobile and backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd mobile && npx expo start",
+    "mobile": "cd mobile && npx expo start",
+    "backend": "cd backend && npm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expo": "^53.0.19"
+  }
+}
