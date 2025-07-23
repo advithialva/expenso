@@ -111,6 +111,6 @@ npm run dev
 ```bash
 npx expo
 ```
----
+
 
 
